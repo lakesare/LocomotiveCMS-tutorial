@@ -1,4 +1,7 @@
 
+
+
+
 # Starting out with LocomotiveCMS.
 
 ## Gems
@@ -20,6 +23,7 @@ Some other interesting things about MongoDB:
 - it doesn't support transactions
 
 more on mongodb: https://www.mongodb.com/blog/post/thinking-documents-part-1?jmp=docs&_ga=1.54024672.951253070.1435561573
+
 links used: http://openmymind.net/mongodb.pdf
 
 ## MongoDB console
